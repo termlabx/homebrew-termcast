@@ -1,6 +1,6 @@
 cask "termcast" do
   version "0.1.1"
-  sha256 "placeholder_replaced_on_first_build"
+  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
 
   url "https://github.com/termlabx/termcast_server/raw/main/bin/termcast_server.dmg"
   name "Termcast"
