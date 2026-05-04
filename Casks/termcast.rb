@@ -1,6 +1,6 @@
 cask "termcast" do
-  version "0.7.0"
-  sha256 "cda58d63b8613bc395c41486e5d6dbbdd53231e053d5632b8acb1f0eb7d8f887"
+  version "0.8.0"
+  sha256 "7d195a60510ba36a6a8464bb85822f07e307430c7f77dde3410729f9f9c31b20"
 
   url "https://github.com/termlabx/termcast_server/releases/download/v#{version}/termcast_server.dmg"
   name "Termcast"
