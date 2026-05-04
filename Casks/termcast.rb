@@ -1,8 +1,8 @@
 cask "termcast" do
-  version "0.6.0"
-  sha256 "8ebbd541012ae2ed764d8414f85a1c4ecd68c7a7da65c8b2ddc9f8b0e9528ef4"
+  version "0.7.0"
+  sha256 "cda58d63b8613bc395c41486e5d6dbbdd53231e053d5632b8acb1f0eb7d8f887"
 
-  url "https://github.com/termlabx/termcast_server/raw/main/bin/termcast_server.dmg"
+  url "https://github.com/termlabx/termcast_server/releases/download/v#{version}/termcast_server.dmg"
   name "Termcast"
   desc "Access your terminal from your iPhone"
   homepage "https://github.com/termlabx/termcast_server"
