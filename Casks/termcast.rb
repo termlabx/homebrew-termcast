@@ -1,6 +1,6 @@
 cask "termcast" do
-  version "0.146.0"
-  sha256 "ae7dba67e80223b0a6a076c2fe59e4a2bf6d7fa16317752d8f4e53b954749bd9"
+  version "0.148.0"
+  sha256 "c86c9d6d3f3acb7641eedfbef27283a59b8605499fadb55bff281bd8fd188984"
 
   url "https://relay.example.com/releases/termcast.dmg?v=#{version}"
   name "Termcast"
