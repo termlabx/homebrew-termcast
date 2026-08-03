@@ -1,6 +1,6 @@
 cask "termcast" do
-  version "0.151.0"
-  sha256 "35bcdbfec845e231ddb4f783dd8c52f317f16b9be7eff95279bfc4750617b846"
+  version "0.152.0"
+  sha256 "4c3c4d890a1d06616ab84e109c1026a018451ef75dec6f710953016f616edc8f"
 
   url "https://termcast.download.ulixlab.com/releases/termcast.dmg?v=#{version}"
   name "Termcast"
