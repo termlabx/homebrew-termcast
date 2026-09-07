@@ -1,6 +1,6 @@
 cask "termcast" do
-  version "0.182.0"
-  sha256 "2d08d5d8e017ced7438c487eefabde6af6a50ade5f5804e77cabb2f1bd6dc6e3"
+  version "0.183.0"
+  sha256 "e8e1824d982872c62cdf52c3e8f9df278f3ab2419a108d39c3e527625bc3f531"
 
   url "https://ttyd-relay.xing-mathcoder.workers.dev/releases/termcast.dmg?v=#{version}"
   name "Termcast"
